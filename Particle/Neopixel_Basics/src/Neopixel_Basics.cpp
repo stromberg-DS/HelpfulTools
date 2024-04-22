@@ -22,7 +22,7 @@
 #include <neopixel.h>   //Make sure to include neopixel library
 
 
-SYSTEM_MODE(SEMI_AUTOMATIC);   
+SYSTEM_MODE(AUTOMATIC);   
 SYSTEM_THREAD(ENABLED);   //not really necessary, doesn't hurt
 
 //Constants
