@@ -30,7 +30,7 @@ const int LED_PIN = 2;
 const int PIXEL_COUNT = 144;   //set to your number of pixels
 
 //Variables
-int brightness = 30;    //max is 255, usually that's too bright
+int brightness = 255;    //max is 255, usually that's too bright
 
 //Create pixel object
 //  Make sure to swap what kind you have (WS2812, WS2811, etc.)
