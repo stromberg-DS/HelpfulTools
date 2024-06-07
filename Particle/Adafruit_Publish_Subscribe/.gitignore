@@ -1,3 +1,7 @@
+nul
+credentials.h
+credential.h 
+
 # Key files
 *.der
 *.pem
